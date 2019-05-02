@@ -1,6 +1,8 @@
 # awesome-papers
 
 ## Functional Programming
+### General
+* [Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 
 ### Graphs
 * [Inductive Graphs and Functional Graph Algorithms](http://web.engr.oregonstate.edu/~erwig/papers/InductiveGraphs_JFP01.pdf)
