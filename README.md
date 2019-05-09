@@ -18,3 +18,5 @@
 
 ## Rust
 * [Memory Management and Efficient Graph Processing in Rust](https://pdfs.semanticscholar.org/de57/02f2e4dba4c058515e240dfe0ef929f3c32e.pdf)
+* [The Case for Writing a Kernel in Rust](https://www.tockos.org/assets/papers/rust-kernel-apsys2017.pdf)
+
