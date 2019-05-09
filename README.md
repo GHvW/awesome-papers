@@ -7,6 +7,9 @@
 ### General
 * [Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 
+### Parsers
+* [Monadic Parser Combinators](http://www.cs.nott.ac.uk/~pszgmh/monparsing.pdf)
+
 ### Graphs
 * [Inductive Graphs and Functional Graph Algorithms](http://web.engr.oregonstate.edu/~erwig/papers/InductiveGraphs_JFP01.pdf)
 * [An Applicative Control Flow Graph Based on Huet's Zipper](https://www.cs.tufts.edu/~nr/pubs/zipcfg.pdf)
