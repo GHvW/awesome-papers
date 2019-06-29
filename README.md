@@ -3,6 +3,8 @@
 ## Functional Programming
 ### Concurrency & Parallelism
 * [Beautiful Concurrency](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/beautiful.pdf?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fstm%2Fbeautiful.pdf)
+### Reactive
+* [Deprecating the Observer Pattern](https://pdfs.semanticscholar.org/d734/1e40b11008965d60631953ad83e89aa40584.pdf)
 
 ### General
 * [Why Functional Programming Matters](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
@@ -22,4 +24,5 @@
 ## Rust
 * [Memory Management and Efficient Graph Processing in Rust](https://pdfs.semanticscholar.org/de57/02f2e4dba4c058515e240dfe0ef929f3c32e.pdf)
 * [The Case for Writing a Kernel in Rust](https://www.tockos.org/assets/papers/rust-kernel-apsys2017.pdf)
+
 
