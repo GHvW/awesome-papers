@@ -3,7 +3,7 @@
 ## Functional Programming
 ### Concurrency & Parallelism
 * [Beautiful Concurrency](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/beautiful.pdf?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fstm%2Fbeautiful.pdf)
-* [Understnading and Expressing Scalable Concurrency](https://aturon.github.io/academic/turon-thesis.pdf)
+* [Understanding and Expressing Scalable Concurrency](https://aturon.github.io/academic/turon-thesis.pdf)
 
 ### Reactive
 * [Deprecating the Observer Pattern](https://pdfs.semanticscholar.org/d734/1e40b11008965d60631953ad83e89aa40584.pdf)
