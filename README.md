@@ -1,4 +1,4 @@
-# awesome-papers
+# papers-i-love
 
 ## Concurrency & Parallelism
 * [Beautiful Concurrency](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/beautiful.pdf?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fstm%2Fbeautiful.pdf)
@@ -31,3 +31,6 @@
 
 ## Blockchain
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
+
+## Clojure
+* [A History of Clojure](https://download.clojure.org/papers/clojure-hopl-iv-final.pdf)
