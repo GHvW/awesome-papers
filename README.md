@@ -34,3 +34,6 @@
 
 ## Clojure
 * [A History of Clojure](https://download.clojure.org/papers/clojure-hopl-iv-final.pdf)
+
+## Data Structures
+* [Ideal Hash Trees](http://lampwww.epfl.ch/papers/idealhashtrees.pdf)
