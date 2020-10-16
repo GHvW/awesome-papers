@@ -37,3 +37,4 @@
 
 ## Data Structures
 * [Ideal Hash Trees](http://lampwww.epfl.ch/papers/idealhashtrees.pdf)
+* [Optimizing Hash-Array Mapped Tries For Fast and Lean Immutable JVM Collections](https://michael.steindorfer.name/publications/oopsla15.pdf)
